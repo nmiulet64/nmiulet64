@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @nmiulet64
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Narcis-Adelin Miulet
+- 👀 I’m interested in Software Development
+- 🌱 I’m currently learning E-Governance at UPB
+- 💞️ I’m looking to collaborate on various projects
+- 📫 How to reach me narcis.adelin.miulet@gmail.com
 
 <!---
 nmiulet64/nmiulet64 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
